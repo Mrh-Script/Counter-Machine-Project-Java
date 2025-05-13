@@ -24,7 +24,7 @@ This is a simple **Counter Machine** built with **Java Swing**. It provides basi
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Interface
 
 <img src="counter.png" alt="Counter Machine Screenshot" width="400"/>
 
